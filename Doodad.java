@@ -9,7 +9,7 @@ class Doodad
     return myNum;
 }
   public void setNum(double n) {
-  n = myNum;
+  myNum = n;
 }
   
 }
